@@ -9,15 +9,23 @@
 - GIT
 - SERVER MAIL.
 
+## Dependences for DEV
+- breeze --dev
+- php artisan breeze:install react
 
-### 
+# Front
+- npm run dev   **[Front]**
+    - vite 
 
+# Back 
+- php artisan serve **[Back]**
+    - artisan
+
+### libraries 
 - **[LIB](https://getcomposer.org/ )**
 - **[NODE](https://getcomposer.org/)**
 
-## Contributing
-
-
 ## License
+    MIT
 
 
